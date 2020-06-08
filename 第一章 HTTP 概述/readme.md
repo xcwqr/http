@@ -21,6 +21,10 @@ A:其实就是一种数据类型标记，用来告诉接收端，接收到的数
 
 A:首先URI从其概念来说是*统一资源标识符*，它的作用就是在网络上唯一确定一个资源，就好比，在中国，身份证能唯一确定一个人一样！知道身份证号，就一定能确定一个人姓甚名谁一样！它有两个子集：URL(统一资源定位符)和URN(统一资源名)，首先不特别声明，我们所说的URI就是指URL，URL是跟资源其在网络上的位置有关！而URN是指资源跟其名字有关，URN是未来的趋势，不过貌似具体实施现在还在商讨中！所以短时间之内URN难以取代URL！
 
+uri: uniform resource identifier
+url: uniform resource locator
+urn: uniform resource name
+
 
 **Q:什么是事务？**
 
